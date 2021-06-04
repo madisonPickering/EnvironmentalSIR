@@ -1,0 +1,15 @@
+This project contains the implementation of NetworkSIR & EnvironmentalSIR
+as referenced in:
+	NetworkSIR and EnvironmentalSIR: Effective, Open-Source Epidemic
+	Modeling in the Absence of Data
+	
+	and,
+	
+	NetworkSIR and EnvironmentalSIR: Two Simple Distributed
+	Mechanisms for Modeling Epidemics
+	
+All code was written by @author Madison Pickering.
+(Copyright 2020 Madison Pickering)
+
+Note that this project is licensed under the GNU Public License v3.
+Please refer to file COPYING for more information.
